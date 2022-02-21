@@ -1,0 +1,19 @@
+/*orange: rgb(215,63,9)*/
+/*pine stand: rgb(74,119,60)*/
+/*high tide: rgb(0,133,155)*/
+/*luminance: rgb(255,181,155)*/
+/*stratosphere: rgb(0,106,142)*/
+
+.player-stats-container {
+    background: white;
+    color: black;
+}
+
+.player-stats-line {
+    height: 50px;
+}
+
+.player-stats-view-line-text {
+    font-size: 20px;
+    font-family: Stratum2Bold, sans-serif;
+}
